@@ -1,30 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ru.stqa.training.selenium.MyFirstTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-07-21T23:09:08" hostname="Ridiculous" time="21.256">
+<testsuite name="ru.stqa.training.selenium.MyFirstTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-07-25T12:25:49" hostname="Ridiculous" time="17.229">
   <properties/>
-  <testcase name="priceCheck" classname="ru.stqa.training.selenium.MyFirstTest" time="7.942"/>
-  <testcase name="pricesColorsAndSizesCheck" classname="ru.stqa.training.selenium.MyFirstTest" time="6.872"/>
-  <testcase name="nameCheck" classname="ru.stqa.training.selenium.MyFirstTest" time="6.441"/>
+  <testcase name="nameCheck" classname="ru.stqa.training.selenium.MyFirstTest" time="17.229"/>
   <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[Starting ChromeDriver 83.0.4103.39 (ccbf011cb2d2b19b506d844400483861342c20cd-refs/branch-heads/4103@{#416}) on port 11680
+  <system-err><![CDATA[Starting ChromeDriver 83.0.4103.39 (ccbf011cb2d2b19b506d844400483861342c20cd-refs/branch-heads/4103@{#416}) on port 37084
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-[1595372950.473][WARNING]: This version of ChromeDriver has not been tested with Chrome version 84.
-июл. 22, 2020 2:09:10 AM org.openqa.selenium.remote.ProtocolHandshake createSession
-INFO: Detected dialect: W3C
-Starting ChromeDriver 83.0.4103.39 (ccbf011cb2d2b19b506d844400483861342c20cd-refs/branch-heads/4103@{#416}) on port 4003
-Only local connections are allowed.
-Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
-ChromeDriver was started successfully.
-[1595372957.424][WARNING]: This version of ChromeDriver has not been tested with Chrome version 84.
-июл. 22, 2020 2:09:17 AM org.openqa.selenium.remote.ProtocolHandshake createSession
-INFO: Detected dialect: W3C
-Starting ChromeDriver 83.0.4103.39 (ccbf011cb2d2b19b506d844400483861342c20cd-refs/branch-heads/4103@{#416}) on port 46793
-Only local connections are allowed.
-Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
-ChromeDriver was started successfully.
-[1595372964.194][WARNING]: This version of ChromeDriver has not been tested with Chrome version 84.
-июл. 22, 2020 2:09:24 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+[1595679952.620][WARNING]: This version of ChromeDriver has not been tested with Chrome version 84.
+июл. 25, 2020 3:25:52 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
 ]]></system-err>
 </testsuite>
